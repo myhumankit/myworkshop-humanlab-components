@@ -1,0 +1,25 @@
+{
+    "component": {
+        "full_name": "Filament PLA",
+        "short_description": "Le PLA (Acide polylactique) est un bio-plastique, issu généralement d’amidon de maïs, mais aussi de cannes à sucre, betterave, etc. Il est entièrement biodégradable en conditions industrielles. Le filament PLA est également le plastique le plus facile à imprimer. En effet, il fond à basse température (en règle général entre 190 et 220°C), et est peu sujet au warping.",
+        "lang": "fr",
+        "unit": "g",
+        "cost": {
+            "value": 0.025,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/filament-PLA.jpg",
+                "caption": "Filament PLA"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Acide_polylactique",
+                "text": "PLA sur Wikipédia",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ]
+    }
+}
