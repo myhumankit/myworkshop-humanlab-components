@@ -1,0 +1,26 @@
+{
+    "component": {
+        "full_name": "FeatherWing Proto",
+        "short_description": "A prototyping add-on for all Feather boards.",
+        "lang": "en",
+        "unit": "1",
+        "cost": {
+            "value": 4.95,
+            "currency": "USD"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/Adafruit-FeatherWing-Proto.jpg",
+                "caption": "FeatherWing Proto"
+            }
+        },
+        "brand": "Adafruit",
+        "model": "FeatherWing Proto",
+        "links": [
+            {
+                "url": "https://www.adafruit.com/product/2884",
+                "text": "Adafruit FeatherWing Proto"
+            }
+        ]
+    }
+}
