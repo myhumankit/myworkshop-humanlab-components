@@ -1,0 +1,25 @@
+{
+    "component": {
+        "full_name": "LED 3 mm",
+        "short_description": "Une diode électroluminescente (abrégé en LED, de l'anglais : light-emitting diode, ou DEL en français) est un dispositif opto-électronique capable d’émettre de la lumière lorsqu’il est parcouru par un courant électrique. Une diode électroluminescente ne laisse passer le courant électrique que dans un seul sens (le sens passant, comme une diode classique, l'inverse étant le sens bloquant) et produit un rayonnement monochromatique ou polychromatique non cohérent à partir de la conversion d’énergie électrique lorsqu'un courant la traverse.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 0.1,
+            "currency": "EUR"
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente",
+                "text": "Diode électroluminescente sur Wikipédia",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ],
+        "featured_image": {
+            "image": {
+                "url": "images/led-3-mm.jpg",
+                "caption": "LED 3 mm"
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "component": {
+        "full_name": "Bouton poussoir miniature",
+        "short_description": "Bouton poussoir miniature à souder.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 0.1,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/bouton-poussoir-miniature.jpg",
+                "caption": "Bouton poussoir miniature"
+            }
+        }
+    }
+}

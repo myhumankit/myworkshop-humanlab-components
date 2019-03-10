@@ -1,0 +1,18 @@
+{
+    "component": {
+        "full_name": "Fil de cablage multibrins 0,2 mm²",
+        "short_description": "Fil de cablage multibrins 0,2 mm².",
+        "lang": "fr",
+        "unit": "m",
+        "cost": {
+            "value": 0.15,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/fil-de-cablage-multibrins-0.2.jpg",
+                "caption": "Fil de cablage multibrins 0,2 mm²"
+            }
+        }
+    }
+}
