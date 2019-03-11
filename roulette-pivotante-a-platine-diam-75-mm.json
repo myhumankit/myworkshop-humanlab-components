@@ -1,0 +1,30 @@
+{
+    "component": {
+        "full_name": "Roulette pivotante à platine Ø 75 mm",
+        "short_description": "Roulette pivotante à platine Ø 75 mm, hauteur 100 mm, avec roulement à billes.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 10.3,
+            "currency": "EUR"
+        },
+        "brand": "Leroy Merlin",
+        "model": "65290120",
+        "featured_image": {
+            "image": {
+                "url": "images/roulette-pivotante-a-platine-diam-75-mm.jpg",
+                "caption": "Roulette pivotante à platine Ø 75 mm"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.leroymerlin.fr/v3/p/produits/roulette-pivotante-a-platine-diam-75-mm-e21377",
+                "text": "Roulette pivotante à platine Ø 75 mm chez Leroy Merlin"
+            }
+        ],
+        "mass": {
+            "value": 0.338,
+            "unit": "kg"
+        }
+    }
+}

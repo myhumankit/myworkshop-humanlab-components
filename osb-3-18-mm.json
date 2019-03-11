@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Panneau OSB 3 - 18 mm",
+        "short_description": "Selon la norme afnor NF EN 300, un panneau de lamelles minces, longues et orientées ou OSB (pour Oriented Strand Board, l'appellation anglophone) est un panneau en plusieurs couches principalement constitué de lamelles de bois et liées ensembles avec un liant.",
+        "lang": "fr",
+        "unit": "m²",
+        "cost": {
+            "value": 16,
+            "currency": "EUR"
+        },
+        "mass": {
+            "value": 11.5,
+            "unit": "kg"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/osb-3.jpg",
+                "caption": "OSB 3"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.leroymerlin.fr/v3/p/produits/panneau-osb-3-3-plis-epicea-naturel-ep-18-mm-x-l-250-x-l-125-cm-e105099",
+                "text": "Panneau osb 3 3 plis épicéa naturel, Ep.18 mm x L.250 x l.125 cm sur Leroy Merlin"
+            }
+        ]
+    }
+}

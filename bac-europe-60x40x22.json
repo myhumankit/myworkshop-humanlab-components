@@ -1,0 +1,29 @@
+{
+    "component": {
+        "full_name": "Bac europe 60 x 40 x 22",
+        "short_description": "Bac au standard Europe.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 13.2,
+            "currency": "EUR"
+        },
+        "mass": {
+            "value": 1.8,
+            "unit": "kg"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/bac-europe-60x40x22.jpg",
+                "caption": "Bac europe 60 x 40 x 22"
+            }
+        },
+        "model": "60 x 40 x 22",
+        "links": [
+            {
+                "url": "https://www.rouxel.com/article-19499-411-bac_gerbable_norme_europe.aspx",
+                "text": "Bac gerbable norme europe sur Rouxel"
+            }
+        ]
+    }
+}

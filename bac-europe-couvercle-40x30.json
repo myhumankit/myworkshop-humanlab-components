@@ -1,0 +1,29 @@
+{
+    "component": {
+        "full_name": "Couvercle pour bac europe 40 x 30",
+        "short_description": "Couvercle pour bac au standard Europe.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 4.8,
+            "currency": "EUR"
+        },
+        "mass": {
+            "value": 0.35,
+            "unit": "kg"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/bac-europe-couvercle-40x30.jpg",
+                "caption": "Couvercle pour bac europe 40 x 30"
+            }
+        },
+        "model": "40 x 30",
+        "links": [
+            {
+                "url": "https://www.rouxel.com/article-18594-411-couvercle_encastrable_pour_bac_plastique.aspx",
+                "text": "Couvercle pour bac gerbable norme europe sur Rouxel"
+            }
+        ]
+    }
+}
