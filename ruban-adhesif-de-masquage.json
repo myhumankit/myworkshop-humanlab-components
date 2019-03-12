@@ -1,0 +1,22 @@
+{
+    "component": {
+        "full_name": "Ruban adhésif de masquage",
+        "short_description": "Les adhésifs de masquage protègent les surfaces lors de travaux de peinture ou de décoration. Ils permettent également de délimiter nettement les contours. Ils se déchirent tous à la main sans laisser de traces ni abîmer le support lorsqu'on les retire.",
+        "lang": "fr",
+        "unit": "m",
+        "cost": {
+            "value": 0.12,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/ruban-adhesif-de-masquage.jpg",
+                "caption": "Ruban adhésif de masquage"
+            }
+        },
+        "mass": {
+            "value": 0.005,
+            "unit": "kg"
+        }
+    }
+}
