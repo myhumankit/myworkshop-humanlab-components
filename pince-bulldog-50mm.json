@@ -1,0 +1,22 @@
+{
+    "component": {
+        "full_name": "Pince Bulldog 50 mm",
+        "short_description": "Une pince à dessin efficace pour accrocher vos dessins, travaux, bricolages...",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 0.5,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/pince-bulldog-50mm.jpg",
+                "caption": "Pince Bulldog 50 mm"
+            }
+        },
+        "mass": {
+            "value": 0.012,
+            "unit": "kg"
+        }
+    }
+}
