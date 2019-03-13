@@ -1,0 +1,22 @@
+{
+    "component": {
+        "full_name": "Multiprise",
+        "short_description": "Le bloc multiprise permet de raccorder de nombreux appareils électriques sur une même prise murale.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 5,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/multiprise.jpg",
+                "caption": "Multiprise"
+            }
+        },
+        "mass": {
+            "value": 0.3,
+            "unit": "kg"
+        }
+    }
+}
