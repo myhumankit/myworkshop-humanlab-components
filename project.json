@@ -1,0 +1,190 @@
+{
+    "project": {
+        "full_name": "Biblioth\u00e8que de composants du Humanlab",
+        "slug": "myworkshop-humanlab-components",
+        "short_description": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.",
+        "lang": "fr",
+        "license": "CC BY",
+        "about": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.",
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/components.jpg",
+                    "caption": "Composants"
+                }
+            }
+        ],
+        "status": "published",
+        "contributors": [
+            {
+                "full_name": "Julien Lebunetel",
+                "role": "Responsable de la documentation"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Biblioth\u00e8que de composants du Humanlab",
+                "duration": 300,
+                "content": "Liste de composants g\u00e9n\u00e9r\u00e9e automatiquement.",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "Adafruit-FeatherWing-Proto.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "Adafruit-HUZZAH32.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "SparkFun-Line-Sensor-Breakout-QRE1113-Analog.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-40x30x12.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-40x30x17.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-40x30x22.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-40x30x27.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-60x40x12.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-60x40x17.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-60x40x22.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-60x40x27.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-60x40x32.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-couvercle-40x30.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bac-europe-couvercle-60x40.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "bouton-poussoir-miniature.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "corniere-alu-40x40x2.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "fil-de-cablage-monobrin-0.2.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "fil-de-cablage-multibrins-0.2.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "filament-PLA.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "led-3-mm.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "led-5-mm.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "multiprise.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "osb-3-18-mm.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "pince-bulldog-50mm.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "roulette-pivotante-a-platine-diam-75-mm.json",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-adhesif-de-masquage.json",
+                            "quantity": 1
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

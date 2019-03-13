@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Cornière aluminium 40 x 40 x 2",
+        "short_description": "Cornière aluminium à ailes égales de section : 40 mm x 40 mm x 2 mm.",
+        "lang": "fr",
+        "unit": "m",
+        "cost": {
+            "value": 8,
+            "currency": "EUR"
+        },
+        "mass": {
+            "value": 0.421,
+            "unit": "kg"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/corniere-alu-40x40x2.jpg",
+                "caption": "Cornière aluminium 40 x 40 x 2"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.leroymerlin.fr/v3/p/produits/corniere-egale-aluminium-brut-argent-l-1-m-x-l-4-cm-x-h-4-cm-e1501605734",
+                "text": "Cornière égale aluminium brut argent, L.1 m x l.4 cm x H.4 cm sur Leroy Merlin"
+            }
+        ]
+    }
+}
