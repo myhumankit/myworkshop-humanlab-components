@@ -29,157 +29,157 @@
                 "inputs": [
                     {
                         "component": {
-                            "slug": "Adafruit-FeatherWing-Proto.json",
+                            "slug": "Adafruit-FeatherWing-Proto",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "Adafruit-HUZZAH32.json",
+                            "slug": "Adafruit-HUZZAH32",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "SparkFun-Line-Sensor-Breakout-QRE1113-Analog.json",
+                            "slug": "SparkFun-Line-Sensor-Breakout-QRE1113-Analog",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-40x30x12.json",
+                            "slug": "bac-europe-40x30x12",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-40x30x17.json",
+                            "slug": "bac-europe-40x30x17",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-40x30x22.json",
+                            "slug": "bac-europe-40x30x22",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-40x30x27.json",
+                            "slug": "bac-europe-40x30x27",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x12.json",
+                            "slug": "bac-europe-60x40x12",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x17.json",
+                            "slug": "bac-europe-60x40x17",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x22.json",
+                            "slug": "bac-europe-60x40x22",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x27.json",
+                            "slug": "bac-europe-60x40x27",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x32.json",
+                            "slug": "bac-europe-60x40x32",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-couvercle-40x30.json",
+                            "slug": "bac-europe-couvercle-40x30",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-couvercle-60x40.json",
+                            "slug": "bac-europe-couvercle-60x40",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "bouton-poussoir-miniature.json",
+                            "slug": "bouton-poussoir-miniature",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "corniere-alu-40x40x2.json",
+                            "slug": "corniere-alu-40x40x2",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "fil-de-cablage-monobrin-0.2.json",
+                            "slug": "fil-de-cablage-monobrin-0.2",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "fil-de-cablage-multibrins-0.2.json",
+                            "slug": "fil-de-cablage-multibrins-0.2",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "filament-PLA.json",
+                            "slug": "filament-PLA",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "led-3-mm.json",
+                            "slug": "led-3-mm",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "led-5-mm.json",
+                            "slug": "led-5-mm",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "multiprise.json",
+                            "slug": "multiprise",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "osb-3-18-mm.json",
+                            "slug": "osb-3-18-mm",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "pince-bulldog-50mm.json",
+                            "slug": "pince-bulldog-50mm",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "roulette-pivotante-a-platine-diam-75-mm.json",
+                            "slug": "roulette-pivotante-a-platine-diam-75-mm",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "slug": "ruban-adhesif-de-masquage.json",
+                            "slug": "ruban-adhesif-de-masquage",
                             "quantity": 1
                         }
                     }
