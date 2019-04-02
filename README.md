@@ -11,6 +11,12 @@ Ce dépôt GitHub est principalement utilisé pour stocker l'ensemble des inform
 
 Le fichier _project.json_ permet notamment de générer une liste détaillée des composants à l'aide de [myworkshop](https://github.com/myhumankit/myworkshop).
 
+Ce fichier est généré automatiquement en lancant la commande suivant :
+
+```
+$ python3 update_component_list.py
+```
+
 ## Briques technologiques utilisées
  * [myworkshop](https://github.com/myhumankit/myworkshop).
 

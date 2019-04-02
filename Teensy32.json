@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Teensy 3.2",
+        "short_description": "The Teensy USB Development Board is a complete USB-based microcontoller development system.",
+        "lang": "en",
+        "unit": "1",
+        "cost": {
+            "value": 24,
+            "currency": "EUR"
+        },
+        "mass": {
+            "value": 10,
+            "unit": "g"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/Teensy32.jpg",
+                "caption": "Teensy 3.2"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.pjrc.com/store/teensy32.html",
+                "text": "Teensy USB Development Board"
+            }
+        ]
+    }
+}
