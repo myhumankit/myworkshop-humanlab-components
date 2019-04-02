@@ -121,25 +121,7 @@
                     },
                     {
                         "component": {
-                            "slug": "bande-velcro",
-                            "quantity": 1
-                        }
-                    },
-                    {
-                        "component": {
                             "slug": "bouton-poussoir-miniature",
-                            "quantity": 1
-                        }
-                    },
-                    {
-                        "component": {
-                            "slug": "broches-a-souder",
-                            "quantity": 1
-                        }
-                    },
-                    {
-                        "component": {
-                            "slug": "cable-USB-Micro-B",
                             "quantity": 1
                         }
                     },
@@ -206,18 +188,6 @@
                     {
                         "component": {
                             "slug": "ruban-adhesif-de-masquage",
-                            "quantity": 1
-                        }
-                    },
-                    {
-                        "component": {
-                            "slug": "ruban-adhesif-double-face",
-                            "quantity": 1
-                        }
-                    },
-                    {
-                        "component": {
-                            "slug": "switch-miniature",
                             "quantity": 1
                         }
                     }
