@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Tube aluminium diamètre 10 mm, épaisseur 1 mm",
+        "short_description": "Tube aluminium diamètre 10 mm, épaisseur 1 mm",
+        "lang": "fr",
+        "unit": "m",
+        "cost": {
+            "value": 3,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/tube-alu-diam-10-mm-ep-1-mm.jpg",
+                "caption": "Tube aluminium diamètre 10 mm, épaisseur 1 mm"
+            }
+        },
+        "mass": {
+            "value": 0.076,
+            "unit": "kg"
+        },
+        "links": [
+            {
+                "url": "https://www.leroymerlin.fr/v3/p/produits/tube-rond-aluminium-brut-argent-l-1-m-x-l-1-cm-x-h-1-cm-x-diam-10-mm-e1501604670",
+                "text": "Tube alu sur Leroy Merlin"
+            }
+        ]
+    }
+}

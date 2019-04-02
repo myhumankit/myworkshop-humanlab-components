@@ -190,6 +190,12 @@
                             "slug": "ruban-adhesif-de-masquage",
                             "quantity": 1
                         }
+                    },
+                    {
+                        "component": {
+                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
+                            "quantity": 1
+                        }
                     }
                 ]
             }
