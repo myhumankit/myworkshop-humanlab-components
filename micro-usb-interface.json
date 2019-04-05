@@ -1,0 +1,18 @@
+{
+    "component": {
+        "full_name": "Micro USB interface",
+        "short_description": "Interface micro USB à souder.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 0.25,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/micro-usb-interface.jpg",
+                "caption": "Micro USB interface"
+            }
+        }
+    }
+}
