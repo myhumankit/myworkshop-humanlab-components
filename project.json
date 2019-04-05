@@ -127,6 +127,12 @@
                     },
                     {
                         "component": {
+                            "slug": "cordon-USB-Type-A-male-USB-Type-A-femelle",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
                             "slug": "cordon-micro-usb-male-male",
                             "quantity": 1
                         }

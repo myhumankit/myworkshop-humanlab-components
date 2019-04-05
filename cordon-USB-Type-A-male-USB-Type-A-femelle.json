@@ -1,0 +1,18 @@
+{
+    "component": {
+        "full_name": "Cordon USB Type-A mâle / USB Type-A femelle",
+        "short_description": "Cordon USB Type-A mâle / USB Type-A femelle.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 5,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "cordon-USB-Type-A-male-USB-Type-A-femelle.jpg",
+                "caption": "Cordon USB Type-A mâle / USB Type-A femelle"
+            }
+        }
+    }
+}
