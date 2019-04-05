@@ -187,12 +187,6 @@
                     },
                     {
                         "component": {
-                            "slug": "osb-3-18-mm",
-                            "quantity": 1
-                        }
-                    },
-                    {
-                        "component": {
                             "slug": "pince-bulldog-50mm",
                             "quantity": 1
                         }
@@ -206,12 +200,6 @@
                     {
                         "component": {
                             "slug": "ruban-adhesif-de-masquage",
-                            "quantity": 1
-                        }
-                    },
-                    {
-                        "component": {
-                            "slug": "tube-alu-diam-10-mm-ep-1-mm",
                             "quantity": 1
                         }
                     }
