@@ -163,6 +163,12 @@
                     },
                     {
                         "component": {
+                            "slug": "micro-usb-interface",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
                             "slug": "multiprise",
                             "quantity": 1
                         }
