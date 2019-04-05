@@ -127,6 +127,12 @@
                     },
                     {
                         "component": {
+                            "slug": "cordon-micro-usb-male-male",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
                             "slug": "corniere-alu-40x40x2",
                             "quantity": 1
                         }
