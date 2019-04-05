@@ -1,0 +1,18 @@
+{
+    "component": {
+        "full_name": "Cordon USB Micro-B mâle / USB Micro-B mâle",
+        "short_description": "Cordon USB Micro-B mâle / USB Micro-B mâle.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 5,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/cordon-USB-Micro-B-male-USB-Micro-B-male.jpg",
+                "caption": "Cordon USB Micro-B mâle / USB Micro-B mâle"
+            }
+        }
+    }
+}
