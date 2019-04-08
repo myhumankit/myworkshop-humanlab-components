@@ -1,7 +1,7 @@
 {
     "component": {
         "full_name": "Serrage rapide pour collier de selle 60 mm b'twin",
-        "short_description": "Permet le réglage/démontage de la tige de selle sans outils.Serrage en aluminium et acier",
+        "short_description": "Permet le réglage/démontage de la tige de selle sans outils. Serrage en aluminium et acier",
         "lang": "fr",
         "unit": "1",
         "cost": {
@@ -16,7 +16,7 @@
 ],
         "featured_image": {
             "image": {
-                "url": "images/serrage_rapide_collier_de_selle_60mm.jpg",
+                "url": "images/serrage-rapide-collier-de-selle-60mm.jpg",
                 "caption": "Serrage rapide de selle de vélo"
             }
         },
