@@ -213,6 +213,18 @@
                     },
                     {
                         "component": {
+                            "slug": "ruban-velcro-noir-50mm-boucles",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-velcro-noir-50mm-crochets",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
                             "slug": "ruban-velcro-noir-autocolant-20mm-boucles",
                             "quantity": 1
                         }
