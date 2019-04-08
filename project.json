@@ -1,11 +1,8 @@
 {
     "project": {
-        "full_name": "Biblioth\u00e8que de composants du Humanlab",
-        "slug": "myworkshop-humanlab-components",
-        "short_description": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.",
         "lang": "fr",
+        "slug": "myworkshop-humanlab-components",
         "license": "CC BY",
-        "about": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.\nCe document a \u00e9t\u00e9 g\u00e9n\u00e9r\u00e9 automatiquement pour faciliter la r\u00e9daction de documentation \u00e0 partir des composants disponibles au Humanlab.",
         "featured_images": [
             {
                 "image": {
@@ -14,7 +11,9 @@
                 }
             }
         ],
-        "status": "published",
+        "full_name": "Biblioth\u00e8que de composants du Humanlab",
+        "about": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.\nCe document a \u00e9t\u00e9 g\u00e9n\u00e9r\u00e9 automatiquement pour faciliter la r\u00e9daction de documentation \u00e0 partir des composants disponibles au Humanlab.",
+        "short_description": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.",
         "contributors": [
             {
                 "full_name": "Julien Lebunetel",
@@ -25,182 +24,185 @@
         ],
         "steps": [
             {
-                "title": "Biblioth\u00e8que de composants du Humanlab",
-                "duration": 300,
-                "content": "Liste de composants g\u00e9n\u00e9r\u00e9e automatiquement.",
                 "inputs": [
                     {
                         "component": {
-                            "slug": "Adafruit-FeatherWing-Proto",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "Adafruit-FeatherWing-Proto"
                         }
                     },
                     {
                         "component": {
-                            "slug": "Adafruit-HUZZAH32",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "Adafruit-HUZZAH32"
                         }
                     },
                     {
                         "component": {
-                            "slug": "SparkFun-Line-Sensor-Breakout-QRE1113-Analog",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "SparkFun-Line-Sensor-Breakout-QRE1113-Analog"
                         }
                     },
                     {
                         "component": {
-                            "slug": "Teensy32",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "Teensy32"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-40x30x12",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-40x30x12"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-40x30x17",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-40x30x17"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-40x30x22",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-40x30x22"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-40x30x27",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-40x30x27"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x12",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-60x40x12"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x17",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-60x40x17"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x22",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-60x40x22"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x27",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-60x40x27"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-60x40x32",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-60x40x32"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-couvercle-40x30",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-couvercle-40x30"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bac-europe-couvercle-60x40",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bac-europe-couvercle-60x40"
                         }
                     },
                     {
                         "component": {
-                            "slug": "bouton-poussoir-miniature",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "bouton-poussoir-miniature"
                         }
                     },
                     {
                         "component": {
-                            "slug": "cordon-USB-Micro-B-male-USB-Micro-B-male",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "cordon-USB-Micro-B-male-USB-Micro-B-male"
                         }
                     },
                     {
                         "component": {
-                            "slug": "cordon-USB-Type-A-male-USB-Type-A-femelle",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "cordon-USB-Type-A-male-USB-Type-A-femelle"
                         }
                     },
                     {
                         "component": {
-                            "slug": "corniere-alu-40x40x2",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "corniere-alu-40x40x2"
                         }
                     },
                     {
                         "component": {
-                            "slug": "fil-de-cablage-monobrin-0.2",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "fil-de-cablage-monobrin-0.2"
                         }
                     },
                     {
                         "component": {
-                            "slug": "fil-de-cablage-multibrins-0.2",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "fil-de-cablage-multibrins-0.2"
                         }
                     },
                     {
                         "component": {
-                            "slug": "filament-PLA",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "filament-PLA"
                         }
                     },
                     {
                         "component": {
-                            "slug": "led-3-mm",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "led-3-mm"
                         }
                     },
                     {
                         "component": {
-                            "slug": "led-5-mm",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "led-5-mm"
                         }
                     },
                     {
                         "component": {
-                            "slug": "micro-usb-interface",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "micro-usb-interface"
                         }
                     },
                     {
                         "component": {
-                            "slug": "multiprise",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "multiprise"
                         }
                     },
                     {
                         "component": {
-                            "slug": "pince-bulldog-50mm",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "pince-bulldog-50mm"
                         }
                     },
                     {
                         "component": {
-                            "slug": "roulette-pivotante-a-platine-diam-75-mm",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "roulette-pivotante-a-platine-diam-75-mm"
                         }
                     },
                     {
                         "component": {
-                            "slug": "ruban-adhesif-de-masquage",
-                            "quantity": 1
+                            "quantity": 1,
+                            "slug": "ruban-adhesif-de-masquage"
+                        }
+                    },
+                    {
+                        "component": {
+                            "quantity": 1,
+                            "slug": "serrage-rapide-collier-de-selle-60mm"
                         }
                     },
                     {
@@ -239,15 +241,19 @@
                             "quantity": 1
                         }
                     }
-                ]
+                ],
+                "duration": 300,
+                "title": "Biblioth\u00e8que de composants du Humanlab",
+                "content": "Liste de composants g\u00e9n\u00e9r\u00e9e automatiquement."
             }
         ],
         "links": [
             {
                 "url": "https://github.com/myhumankit/myworkshop-humanlab-components",
-                "text": "code source de la documentation sur GitHub",
-                "fa5_icon": "fab fa-github"
+                "fa5_icon": "fab fa-github",
+                "text": "code source de la documentation sur GitHub"
             }
-        ]
+        ],
+        "status": "published"
     }
 }
