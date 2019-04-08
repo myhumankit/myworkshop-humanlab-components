@@ -1,0 +1,18 @@
+{
+    "component": {
+        "full_name": "Ruban velcro noir autocolant 20 mm (crochets)",
+        "short_description": "Ruban velcro noir autocolant 20 mm (crochets).",
+        "lang": "fr",
+        "unit": "m",
+        "cost": {
+            "value": 2.5,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/ruban-velcro-noir-autocolant.jpg",
+                "caption": "Ruban velcro noir autocolant 20 mm (crochets)"
+            }
+        }
+    }
+}

@@ -202,6 +202,42 @@
                             "slug": "ruban-adhesif-de-masquage",
                             "quantity": 1
                         }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-velcro-noir-20mm-boucles",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-velcro-noir-20mm-crochets",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-velcro-noir-autocolant-20mm-boucles",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-velcro-noir-autocolant-20mm-crochets",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-velcro-noir-autocolant-50mm-boucles",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-velcro-noir-autocolant-50mm-crochets",
+                            "quantity": 1
+                        }
                     }
                 ]
             }
