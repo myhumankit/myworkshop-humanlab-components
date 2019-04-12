@@ -39,6 +39,12 @@
                     },
                     {
                         "component": {
+                            "slug": "Arduino-UNO-Rev3",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
                             "slug": "SparkFun-Line-Sensor-Breakout-QRE1113-Analog",
                             "quantity": 1
                         }
