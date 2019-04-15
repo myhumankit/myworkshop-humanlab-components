@@ -1,0 +1,24 @@
+{
+    "component": {
+        "full_name": "Carte SD",
+        "short_description": "Les cartes SD sont utilisées pour le stockage de fichiers dans les appareils photo numériques, les caméscopes numériques, les systèmes de navigation GPS, les consoles de jeux vidéo, les téléphones mobiles dont les smartphones, ou encore les systèmes embarqués.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 0,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/carte-SD.jpg",
+                "caption": "Carte SD"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Carte_SD",
+                "text": "Carte SD sur Wikipédia"
+            }
+        ]
+    }
+}

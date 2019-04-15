@@ -129,6 +129,24 @@
                     },
                     {
                         "component": {
+                            "slug": "carte-SD",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "carte-microSD",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "carte-miniSD",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
                             "slug": "cordon-USB-Micro-B-male-USB-Micro-B-male",
                             "quantity": 1
                         }
@@ -178,6 +196,18 @@
                     {
                         "component": {
                             "slug": "micro-usb-interface",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "module-MP3-YX5300",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "module-RFID-MFRC522",
                             "quantity": 1
                         }
                     },
@@ -256,6 +286,12 @@
                     {
                         "component": {
                             "slug": "serrage-rapide-collier-de-selle-60mm",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tag-RFID-MIFARE-classic-1k-autocollant-d25",
                             "quantity": 1
                         }
                     }
