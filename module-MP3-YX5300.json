@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Module MP3 YX5300",
+        "short_description": "Module de lecteur de musique MP3 YX5300 contrôle série UART.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 6.55,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/module-MP3-YX5300.jpg",
+                "caption": "Module MP3 YX5300"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.amazon.fr/gp/product/B07KFL1X4D",
+                "text": "YX5300 UART Control Serial MP3 Music Player Module sur Amazon"
+            },
+            {
+                "url": "https://www.carnetdumaker.net/articles/utiliser-un-lecteur-serie-de-fichiers-mp3-avec-une-carte-arduino-genuino/",
+                "text": "Utiliser un lecteur série de fichiers MP3 avec une carte Arduino / Genuino | Carnet du maker - L'esprit Do It Yourself"
+            }
+        ]
+    }
+}

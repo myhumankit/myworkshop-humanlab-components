@@ -1,0 +1,24 @@
+{
+    "component": {
+        "full_name": "Carte microSD",
+        "short_description": "Le format microSD (de l'anglais Micro Secure Digital Card) est une des nombreuses interfaces utilisée dans le monde des cartes mémoire, et c'est aussi une des plus petites. Il s'agit d'une unité de stockage qui utilise de la mémoire flash et qui est dérivé du format Secure Digital.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 0,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/carte-microSD.jpg",
+                "caption": "Carte microSD"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Carte_microSD",
+                "text": "Carte microSD sur Wikipédia"
+            }
+        ]
+    }
+}

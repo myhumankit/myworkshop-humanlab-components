@@ -1,0 +1,30 @@
+{
+    "component": {
+        "full_name": "Tag RFID MIFARE Classic 1k autocollant Ø 25 mm",
+        "short_description": "La carte MIFARE Classic 1k offre 752 octets de stockage répartis sur 16 secteurs. Chaque secteur est composé de 3 blocs de 16 octets. Un bloc de sécurité supplémentaire vient protéger l'accès au secteur par deux clefs différentes (nommées A et B). Les secteurs peuvent être gérés via des opérations de lecture/d'écriture de données ou d'incrémentation/décrémentation de valeurs. Le bloc 0 (premier bloc du premier secteur) contient l'identifiant unique de la carte. Il est programmé en usine et est verrouillé en écriture.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 0.3,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/tag-RFID-MIFARE-classic-1k-autocollant-d25.jpg",
+                "caption": "Tag RFID MIFARE Classic 1k autocollant Ø 25 mm"
+            }
+        },
+        "brand": "Mifare",
+        "model": "MIFARE Classic 1k",
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Mifare",
+                "text": "Mifare sur Wikipedia"
+            },
+            {
+                "url": "https://www.amazon.fr/gp/product/B07GH1P2M5",
+                "text": "Tag RFID MIFARE Classic 1k autocollant Ø 25 mm sur Amazon"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "component": {
+        "full_name": "Carte miniSD",
+        "short_description": "Le format miniSD (ou mini Secure Digital Card) est une des nombreuses interfaces utilisées dans le monde des cartes mémoire. Il s'agit d'une unité de stockage qui utilise de la mémoire flash et qui est dérivée du format Secure Digital. On retrouve généralement des emplacements pour les cartes miniSD dans des PDA et dans des téléphones mobiles, mais très rarement dans les appareils photo numériques, contrairement aux autres formats de cartes mémoire. Les emplacements pour les cartes miniSD sont rarement présents dans les lecteurs de cartes mémoire, il est généralement nécessaire d'utiliser un adaptateur vers les cartes SD.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 0,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/carte-miniSD.jpg",
+                "caption": "Carte miniSD"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Carte_miniSD",
+                "text": "Carte miniSD sur Wikipédia"
+            }
+        ]
+    }
+}

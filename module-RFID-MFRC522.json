@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Module RFID MFRC522",
+        "short_description": "Ce module permet à la fois de lire et d'écrire des cartes RFID avec Arduino.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 11.9,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/module-RFID-MFRC522.jpg",
+                "caption": "Module RFID MFRC522"
+            }
+        },
+        "links": [
+            {
+                "url": "https://github.com/miguelbalboa/rfid",
+                "text": "Arduino library for MFRC522"
+            },
+            {
+                "url": "https://www.velleman.eu/products/view/?id=435568",
+                "text": "Module RFID MFRC522 Velleman"
+            }
+        ]
+    }
+}
