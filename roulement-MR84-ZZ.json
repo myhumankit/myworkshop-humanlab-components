@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Roulement MR84-ZZ",
+        "short_description": "Composant mécanique, utilisant des billes, optimisant la rotation d'un axe ou d'un arbre en substituant un roulement à un frottement. Diamètre intérieur 4 mm, Diamètre extérieur 8 mm, Epaisseur 3 mm, Poids 0.001 kg",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 2.16,
+            "currency": "EUR"
+        },
+        "links": [
+            {
+                "url": "https://www.123roulement.com/roulement-MR84-ZZ.php",
+                "text": "Roulement MR84-ZZ sur 123roulement"
+            }
+        ],
+        "featured_image": {
+            "image": {
+                "url": "images/roulementMR84ZZ.jpeg",
+                "caption": "Roulement MR84ZZ"
+            }
+        },
+        "mass": {
+            "value": 0.001,
+            "unit": "kg"
+        }
+    }
+}
