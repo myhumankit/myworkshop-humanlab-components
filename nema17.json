@@ -1,0 +1,25 @@
+{
+    "component": {
+        "full_name": "Nema 17",
+        "short_description": "Un NEMA 17 est un moteur pas à pas avec une face avant de 1,7 x 1,7 pouces (43,18 x 43,18 mm).",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 16,
+            "currency": "EUR"
+        },
+        "links": [
+            {
+                "url": "https://www.reprap-france.com/produit/312-moteur-pas-a-pas-nema-17-48mm",
+                "text": "Nema 17 sur Reprap",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ],
+        "featured_image": {
+            "image": {
+                "url": "images/nema-17.jpg",
+                "caption": "Nema 17"
+            }
+        }
+    }
+}
