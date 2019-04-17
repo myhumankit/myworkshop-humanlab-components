@@ -1,27 +1,9 @@
 {
     "project": {
-        "lang": "fr",
         "slug": "myworkshop-humanlab-components",
-        "license": "CC BY",
-        "featured_images": [
-            {
-                "image": {
-                    "url": "images/components.jpg",
-                    "caption": "Composants"
-                }
-            }
-        ],
-        "full_name": "Biblioth\u00e8que de composants du Humanlab",
-        "about": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.\nCe document a \u00e9t\u00e9 g\u00e9n\u00e9r\u00e9 automatiquement pour faciliter la r\u00e9daction de documentation \u00e0 partir des composants disponibles au Humanlab.",
         "short_description": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.",
-        "contributors": [
-            {
-                "full_name": "Julien Lebunetel",
-                "role": "Responsable de la documentation",
-                "github_username": "jlebunetel",
-                "twitter_username": "jlebunetel"
-            }
-        ],
+        "status": "published",
+        "license": "CC BY",
         "steps": [
             {
                 "inputs": [
@@ -219,6 +201,12 @@
                     },
                     {
                         "component": {
+                            "slug": "nema17",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
                             "slug": "pince-bulldog-50mm",
                             "quantity": 1
                         }
@@ -297,23 +285,41 @@
                     },
 					{
                         "component": {
-                            "slug": "nema17",
+                            "slug": "poulie-GT2",
                             "quantity": 1
                         }
                     }
                 ],
-                "duration": 300,
                 "title": "Biblioth\u00e8que de composants du Humanlab",
+                "duration": 300,
                 "content": "Liste de composants g\u00e9n\u00e9r\u00e9e automatiquement."
             }
         ],
-        "links": [
+        "about": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.\nCe document a \u00e9t\u00e9 g\u00e9n\u00e9r\u00e9 automatiquement pour faciliter la r\u00e9daction de documentation \u00e0 partir des composants disponibles au Humanlab.",
+        "contributors": [
             {
-                "url": "https://github.com/myhumankit/myworkshop-humanlab-components",
-                "fa5_icon": "fab fa-github",
-                "text": "code source de la documentation sur GitHub"
+                "twitter_username": "jlebunetel",
+                "github_username": "jlebunetel",
+                "full_name": "Julien Lebunetel",
+                "role": "Responsable de la documentation"
             }
         ],
-        "status": "published"
+        "featured_images": [
+            {
+                "image": {
+                    "caption": "Composants",
+                    "url": "images/components.jpg"
+                }
+            }
+        ],
+        "lang": "fr",
+        "full_name": "Biblioth\u00e8que de composants du Humanlab",
+        "links": [
+            {
+                "text": "code source de la documentation sur GitHub",
+                "fa5_icon": "fab fa-github",
+                "url": "https://github.com/myhumankit/myworkshop-humanlab-components"
+            }
+        ]
     }
 }
