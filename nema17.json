@@ -11,8 +11,7 @@
         "links": [
             {
                 "url": "https://www.reprap-france.com/produit/312-moteur-pas-a-pas-nema-17-48mm",
-                "text": "Nema 17 sur Reprap",
-                "fa5_icon": "fab fa-wikipedia-w"
+                "text": "Nema 17 sur Reprap"
             }
         ],
         "featured_image": {
@@ -20,6 +19,10 @@
                 "url": "images/nema-17.jpg",
                 "caption": "Nema 17"
             }
+        },
+        "mass": {
+            "value": 0.35,
+            "unit": "kg"
         }
     }
 }
