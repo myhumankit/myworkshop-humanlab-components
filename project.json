@@ -294,6 +294,12 @@
                             "slug": "tag-RFID-MIFARE-classic-1k-autocollant-d25",
                             "quantity": 1
                         }
+                    },
+					{
+                        "component": {
+                            "slug": "nema17",
+                            "quantity": 1
+                        }
                     }
                 ],
                 "duration": 300,
