@@ -2,29 +2,15 @@
     "project": {
         "links": [
             {
+                "fa5_icon": "fab fa-github",
                 "url": "https://github.com/myhumankit/myworkshop-humanlab-components",
-                "text": "code source de la documentation sur GitHub",
-                "fa5_icon": "fab fa-github"
+                "text": "code source de la documentation sur GitHub"
             }
         ],
-        "full_name": "Biblioth\u00e8que de composants du Humanlab",
-        "license": "CC BY",
-        "slug": "myworkshop-humanlab-components",
-        "status": "published",
-        "lang": "fr",
-        "short_description": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.",
-        "contributors": [
-            {
-                "role": "Responsable de la documentation",
-                "github_username": "jlebunetel",
-                "full_name": "Julien Lebunetel",
-                "twitter_username": "jlebunetel"
-            }
-        ],
-        "about": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.\nCe document a \u00e9t\u00e9 g\u00e9n\u00e9r\u00e9 automatiquement pour faciliter la r\u00e9daction de documentation \u00e0 partir des composants disponibles au Humanlab.",
         "steps": [
             {
-                "title": "Biblioth\u00e8que de composants du Humanlab",
+                "duration": 300,
+                "content": "Liste de composants g\u00e9n\u00e9r\u00e9e automatiquement.",
                 "inputs": [
                     {
                         "component": {
@@ -245,6 +231,12 @@
                     {
                         "component": {
                             "quantity": 1,
+                            "slug": "roulement-MR84-ZZ"
+                        }
+                    },
+                    {
+                        "component": {
+                            "quantity": 1,
                             "slug": "roulette-pivotante-a-platine-diam-75-mm"
                         }
                     },
@@ -308,12 +300,6 @@
                             "slug": "serrage-rapide-collier-de-selle-60mm"
                         }
                     },
-					{
-                        "component": {
-                            "quantity": 1,
-                            "slug": "roulement-MR84-ZZ"
-                        }
-                    },
                     {
                         "component": {
                             "quantity": 1,
@@ -321,16 +307,30 @@
                         }
                     }
                 ],
-                "content": "Liste de composants g\u00e9n\u00e9r\u00e9e automatiquement.",
-                "duration": 300
+                "title": "Biblioth\u00e8que de composants du Humanlab"
             }
         ],
+        "license": "CC BY",
+        "lang": "fr",
+        "short_description": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.",
         "featured_images": [
             {
                 "image": {
-                    "caption": "Composants",
-                    "url": "images/components.jpg"
+                    "url": "images/components.jpg",
+                    "caption": "Composants"
                 }
+            }
+        ],
+        "status": "published",
+        "full_name": "Biblioth\u00e8que de composants du Humanlab",
+        "about": "Biblioth\u00e8que de composants du Humanlab pour l'outils de documentation MyWorkshop.\nCe document a \u00e9t\u00e9 g\u00e9n\u00e9r\u00e9 automatiquement pour faciliter la r\u00e9daction de documentation \u00e0 partir des composants disponibles au Humanlab.",
+        "slug": "myworkshop-humanlab-components",
+        "contributors": [
+            {
+                "role": "Responsable de la documentation",
+                "github_username": "jlebunetel",
+                "full_name": "Julien Lebunetel",
+                "twitter_username": "jlebunetel"
             }
         ]
     }
