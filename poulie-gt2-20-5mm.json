@@ -1,0 +1,25 @@
+{
+    "component": {
+        "full_name": "Poulie-GT2",
+        "short_description": "Une poulie est une machine simple, c'est-à-dire un dispositif de mécanique élémentaire. Elle est constituée d'une pièce en forme de roue servant à la transmission du mouvement. La poulie est utilisée avec une courroie, une corde, une chaîne ou un câble et la forme de la jante étant adaptée aux cas d'utilisation. ",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 3.30,
+            "currency": "EUR"
+        },
+        "links": [
+            {
+                "url": "https://www.funreprap.com/mecanique/121-poulie-gt2-20-5mm.html",
+                "text": "Poulie gt2-20-5mm ",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ],
+        "featured_image": {
+            "image": {
+                "url": "images/poulie-gt2-20-5mm.jpg",
+                "caption": "Poulie GT2"
+            }
+        }
+    }
+}
