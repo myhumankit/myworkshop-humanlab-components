@@ -1,0 +1,18 @@
+{
+    "component": {
+        "full_name": "Ruban de leds neopixel WS2812 RGB",
+        "short_description": "Ruban de leds adressables RGB",
+        "lang": "fr",
+        "unit": "m",
+        "cost": {
+            "value": 2.95,
+            "currency": "EUR"
+        },
+        "links": [
+            {
+                "url": "https://fr.aliexpress.com/item/1m-4m-5m-WS2812B-Smart-led-pixel-strip-Black-White-PCB-30-60-144-leds-m/2036819167.html",
+                "text": "Lien vers Aliexpress"
+            }
+        ]
+    }
+}
