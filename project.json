@@ -252,6 +252,12 @@
                             "quantity": 1
                         }
                     },
+					{
+                        "component": {
+                            "slug": "contreplaque-peuplier-ep-3mm",
+                            "quantity": 1
+                        }
+                    },
                     {
                         "component": {
                             "slug": "roulette-pivotante-a-platine-diam-75-mm",
