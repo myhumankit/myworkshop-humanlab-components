@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Contreplaqué peuplier épaisseur 3mm",
+        "short_description": "Contreplaqué de peuplier de 3mm d'épaisseur",
+        "lang": "fr",
+        "unit": "m²",
+        "cost": {
+            "value": 18.2,
+            "currency": "EUR"
+        },
+        "links": [
+            {
+                "url": "https://www.leroymerlin.fr/v3/p/produits/panneau-contreplaque-peuplier-ep-3-mm-x-l-250-x-l-122-cm-e154615",
+                "text": "Lien vers LeroyMerlin"
+            }
+        ],
+        "featured_image": {
+            "image": {
+                "url": "images/contreplaque-peuplier-ep-3-mm.jpg",
+                "caption": "Contreplaqué peuplier épaisseur 3mm"
+            }
+        },
+        "mass": {
+            "value": 420,
+            "unit": "kg"
+        }
+    }
+}
