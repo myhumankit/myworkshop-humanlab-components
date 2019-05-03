@@ -300,6 +300,12 @@
                             "slug": "serrage-rapide-collier-de-selle-60mm"
                         }
                     },
+					{
+                        "component": {
+                            "quantity": 1,
+                            "slug": "ruban-leds-neopixel-WS2812-RGB"
+                        }
+                    },
                     {
                         "component": {
                             "quantity": 1,
