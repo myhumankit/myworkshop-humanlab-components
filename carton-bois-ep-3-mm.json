@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Carton bois épaisseur 3mm",
+        "short_description": "Carton bois léger et solide d'une épaisseur de 3mm.",
+        "lang": "fr",
+        "unit": "m²",
+        "cost": {
+            "value": 12,
+            "currency": "EUR"
+        },
+        "links": [
+            {
+                "url": "https://www.geant-beaux-arts.fr/carton-bois.html",
+                "text": "Lien vers Géant des Beaux-Arts"
+            }
+        ],
+        "mass": {
+            "value": 1.49,
+            "unit": "kg"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/carton-bois.jpg",
+                "caption": "Carton bois"
+            }
+        }
+    }
+}

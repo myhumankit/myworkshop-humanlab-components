@@ -258,6 +258,12 @@
                             "quantity": 1
                         }
                     },
+					{
+                        "component": {
+                            "slug": "carton-bois-ep-3-mm",
+                            "quantity": 1
+                        }
+                    },
                     {
                         "component": {
                             "slug": "roulette-pivotante-a-platine-diam-75-mm",
