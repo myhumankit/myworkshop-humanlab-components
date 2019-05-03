@@ -306,6 +306,12 @@
                             "slug": "ruban-leds-neopixel-WS2812-RGB"
                         }
                     },
+					{
+                        "component": {
+                            "quantity": 1,
+                            "slug": "Teensy-carte-adaptateur-audio"
+                        }
+                    },
                     {
                         "component": {
                             "quantity": 1,

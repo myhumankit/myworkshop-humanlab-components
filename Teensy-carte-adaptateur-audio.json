@@ -1,0 +1,24 @@
+{
+    "component": {
+        "full_name": "Carte adaptateur audio pour Teensy 3.XX",
+        "short_description": "Une carte audio pour votre carte Teensy 3.0 à 3.6. Cette carte adaptateur audio permet d'ajouter une fonctionnalité audio haute qualité 44,1kHz 16 bits (qualité CD audio) à vos projets à base de Teensy 3.0 à 3.6. Elle dispose d'une sortie audio basse niveau pour des ecouteurs stéréo, d'une entrée ligne bas niveau stéréo ou une entré ligne microphone bas niveau mono.\n",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 27.3,
+            "currency": "EUR"
+        },
+        "links": [
+            {
+                "url": "https://boutique.semageek.com/fr/947-carte-adaptateur-audio-pour-teensy-30-a-36.html",
+                "text": "Lien vers Seemageek"
+            }
+        ],
+        "featured_image": {
+            "image": {
+                "url": "images/carte-adaptateur-audio-teensy.jpg",
+                "caption": "Carte adaptateur audio teensy"
+            }
+        }
+    }
+}
