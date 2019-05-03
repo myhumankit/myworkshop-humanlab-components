@@ -1,0 +1,24 @@
+{
+    "component": {
+        "full_name": "Haut parleur 8 Ohms",
+        "short_description": "Transducteur électromécanique destiné à produire des sons à partir d'un signal électrique. On emploie parfois aussi ce terme pour désigner l'appareil destiné à l'émission sonore dont il est un des constituants principaux, l'enceinte acoustique.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 3.76,
+            "currency": "EUR"
+        },
+        "links": [
+            {
+                "url": "https://fr.farnell.com/pro-signal/s066m/haut-parleur-66mm-8-ohm/dp/107298",
+                "text": "Lien vers Farnell"
+            }
+        ],
+        "featured_image": {
+            "image": {
+                "url": "images/haut-parleur-8-ohms.jpg",
+                "caption": "Haut-parleur 8 ohms"
+            }
+        }
+    }
+}
