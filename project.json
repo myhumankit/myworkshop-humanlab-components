@@ -14,320 +14,320 @@
                 "inputs": [
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "Adafruit-FeatherWing-Proto"
+                            "slug": "Adafruit-FeatherWing-Proto",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "Adafruit-HUZZAH32"
+                            "slug": "Adafruit-HUZZAH32",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "Arduino-UNO-Rev3"
+                            "slug": "Arduino-UNO-Rev3",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "SparkFun-Line-Sensor-Breakout-QRE1113-Analog"
+                            "slug": "SparkFun-Line-Sensor-Breakout-QRE1113-Analog",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "Teensy32"
+                            "slug": "Teensy-carte-adaptateur-audio",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-40x30x12"
+                            "slug": "Teensy32",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-40x30x17"
+                            "slug": "bac-europe-40x30x12",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-40x30x22"
+                            "slug": "bac-europe-40x30x17",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-40x30x27"
+                            "slug": "bac-europe-40x30x22",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-60x40x12"
+                            "slug": "bac-europe-40x30x27",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-60x40x17"
+                            "slug": "bac-europe-60x40x12",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-60x40x22"
+                            "slug": "bac-europe-60x40x17",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-60x40x27"
+                            "slug": "bac-europe-60x40x22",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-60x40x32"
+                            "slug": "bac-europe-60x40x27",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-couvercle-40x30"
+                            "slug": "bac-europe-60x40x32",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bac-europe-couvercle-60x40"
+                            "slug": "bac-europe-couvercle-40x30",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "bouton-poussoir-miniature"
+                            "slug": "bac-europe-couvercle-60x40",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "carte-SD"
+                            "slug": "bouton-poussoir-miniature",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "carte-microSD"
+                            "slug": "carte-SD",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "carte-miniSD"
+                            "slug": "carte-microSD",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "cordon-USB-Micro-B-male-USB-Micro-B-male"
+                            "slug": "carte-miniSD",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "cordon-USB-Type-A-male-USB-Type-A-femelle"
+                            "slug": "cordon-USB-DATA-Type-A-male-USB-Type-micro-male",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "corniere-alu-40x40x2"
+                            "slug": "cordon-USB-Micro-B-male-USB-Micro-B-male",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "fil-de-cablage-monobrin-0.2"
+                            "slug": "cordon-USB-Type-A-male-USB-Type-A-femelle",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "fil-de-cablage-multibrins-0.2"
+                            "slug": "corniere-alu-40x40x2",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "filament-PLA"
+                            "slug": "fil-de-cablage-monobrin-0.2",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "led-3-mm"
+                            "slug": "fil-de-cablage-multibrins-0.2",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "led-5-mm"
+                            "slug": "filament-PLA",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "micro-usb-interface"
+                            "slug": "haut-parleur-8-ohms",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "module-MP3-YX5300"
+                            "slug": "led-3-mm",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "module-RFID-MFRC522"
+                            "slug": "led-5-mm",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "multiprise"
+                            "slug": "micro-usb-interface",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "nema17"
+                            "slug": "module-MP3-YX5300",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "pince-bulldog-50mm"
+                            "slug": "module-RFID-MFRC522",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "poulie-gt2-20-5mm"
+                            "slug": "multiprise",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "poulie-gt2-60-5mm"
+                            "slug": "nema17",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "roulement-MR84-ZZ"
+                            "slug": "pince-bulldog-50mm",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "roulette-pivotante-a-platine-diam-75-mm"
+                            "slug": "poulie-gt2-20-5mm",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "ruban-adhesif-de-masquage"
+                            "slug": "poulie-gt2-60-5mm",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "ruban-velcro-noir-20mm-boucles"
+                            "slug": "roulement-MR84-ZZ",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "ruban-velcro-noir-20mm-crochets"
+                            "slug": "roulette-pivotante-a-platine-diam-75-mm",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "ruban-velcro-noir-50mm-boucles"
+                            "slug": "ruban-adhesif-de-masquage",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "ruban-velcro-noir-50mm-crochets"
+                            "slug": "ruban-leds-neopixel-WS2812-RGB",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "ruban-velcro-noir-autocolant-20mm-boucles"
+                            "slug": "ruban-velcro-noir-20mm-boucles",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "ruban-velcro-noir-autocolant-20mm-crochets"
+                            "slug": "ruban-velcro-noir-20mm-crochets",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "ruban-velcro-noir-autocolant-50mm-boucles"
+                            "slug": "ruban-velcro-noir-50mm-boucles",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "ruban-velcro-noir-autocolant-50mm-crochets"
+                            "slug": "ruban-velcro-noir-50mm-crochets",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "serrage-rapide-collier-de-selle-60mm"
-                        }
-                    },
-					{
-                        "component": {
-                            "quantity": 1,
-                            "slug": "ruban-leds-neopixel-WS2812-RGB"
-                        }
-                    },
-					{
-                        "component": {
-                            "quantity": 1,
-                            "slug": "cordon-USB-DATA-Type-A-male-USB-Type-micro-male"
-                        }
-                    },
-					{
-                        "component": {
-                            "quantity": 1,
-                            "slug": "Teensy-carte-adaptateur-audio"
-                        }
-                    },
-					{
-                        "component": {
-                            "quantity": 1,
-                            "slug": "haut-parleur 8 ohms"
+                            "slug": "ruban-velcro-noir-autocolant-20mm-boucles",
+                            "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "quantity": 1,
-                            "slug": "tag-RFID-MIFARE-classic-1k-autocollant-d25"
+                            "slug": "ruban-velcro-noir-autocolant-20mm-crochets",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-velcro-noir-autocolant-50mm-boucles",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-velcro-noir-autocolant-50mm-crochets",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "serrage-rapide-collier-de-selle-60mm",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "tag-RFID-MIFARE-classic-1k-autocollant-d25",
+                            "quantity": 1
                         }
                     }
                 ],
