@@ -1,6 +1,6 @@
 {
     "component": {
-        "full_name": "Ruban-leds-neopixel-WS2812-RGB",
+        "full_name": "Ruban leds neopixel WS2812 RGB",
         "short_description": "Ruban de leds adressables",
         "lang": "fr",
         "unit": "m",
