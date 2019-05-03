@@ -140,6 +140,12 @@
                     },
                     {
                         "component": {
+                            "slug": "contreplaque-peuplier-ep-3-mm",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
                             "slug": "cordon-USB-DATA-Type-A-male-USB-Type-micro-male",
                             "quantity": 1
                         }
@@ -183,6 +189,12 @@
                     {
                         "component": {
                             "slug": "haut-parleur-8-ohms",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "kit-telecommande-et-relais",
                             "quantity": 1
                         }
                     },
@@ -249,12 +261,6 @@
                     {
                         "component": {
                             "slug": "roulement-MR84-ZZ",
-                            "quantity": 1
-                        }
-                    },
-					{
-                        "component": {
-                            "slug": "contreplaque-peuplier-ep-3mm",
                             "quantity": 1
                         }
                     },

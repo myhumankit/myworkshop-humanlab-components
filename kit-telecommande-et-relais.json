@@ -1,0 +1,24 @@
+{
+    "component": {
+        "full_name": "Kit télécommande et relais",
+        "short_description": "Une télécommande pour activer son relais à distance.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 6.85,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/kit-telecommande-et-relais.jpg",
+                "caption": "Kit télécommande et relais"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.aliexpress.com/item/DC3-5V-12V-Mini-Relay-Receiver-Remote-Control-Switches-DC3-7V-4-5V-5V-6V-7/32264007237.html",
+                "text": "Kit télécommande et relais sur AliExpress.com"
+            }
+        ]
+    }
+}
