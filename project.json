@@ -309,6 +309,12 @@
 					{
                         "component": {
                             "quantity": 1,
+                            "slug": "cordon-USB-DATA-Type-A-male-USB-Type-micro-male"
+                        }
+                    },
+					{
+                        "component": {
+                            "quantity": 1,
                             "slug": "Teensy-carte-adaptateur-audio"
                         }
                     },

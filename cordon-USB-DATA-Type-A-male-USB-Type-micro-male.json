@@ -1,0 +1,12 @@
+{
+    "component": {
+        "full_name": "Cordon USB DATA Type A mâle/USB Type micro mâle",
+        "short_description": "Câble de transfert de données entre un ordinateur et un microcontrôleur ou tout autre appareil (par exemple téléphone) utilisant une connectique de type micro.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 4.5,
+            "currency": "EUR"
+        }
+    }
+}
